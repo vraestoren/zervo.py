@@ -1,4 +1,4 @@
-import requests
+from requests import Session
 
 class Zervo:
 	def __init__(self, language: str = "en_US") -> None:
@@ -6,7 +6,7 @@ class Zervo:
 		self.token = None
 		self.user_id = None
 		self.language = language
-		self.session = requests.Session()
+		self.session = Session()
 		self.session.headers = {
 			"User-Agent": "Dart/2.18 (dart:io)",
 			"language": self.language
