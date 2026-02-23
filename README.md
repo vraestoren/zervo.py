@@ -1,6 +1,6 @@
 # zervo.py
 
-> Mobile-API for [Zervo](https://play.google.com/store/apps/details?id=com.planet.pinponapp) tp interact with the anime roleplay social network
+> Mobile-API for [Zervo](https://play.google.com/store/apps/details?id=com.planet.pinponapp) to interact with the anime roleplay social network
 
 ---
 
