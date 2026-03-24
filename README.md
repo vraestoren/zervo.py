@@ -31,16 +31,16 @@ zervo.login(email="example@gmail.com", password="password")
 
 ## Features
 
-- 🔐 **Auth** — email/Google login, registration with verification
-- 👤 **Profile** — view and edit your profile, avatar, and custom ID
-- 📝 **Posts** — create, delete, like, and comment on posts
-- 🎭 **OC (Original Characters)** — create, list, and delete OCs
-- 📺 **Channels** — create, join, leave, invite, edit, and moderate channels
-- 👥 **Friends** — send requests, block/unblock users
-- 🔍 **Discovery** — recommended users, albums, channels, and roleplay
-- 🎲 **Gacha** — spin the gachapon, choose avatars
-- 🗺️ **Game maps** — browse in-app game maps
-- 💰 **Points** — check your point balance
+- **Auth** — email/Google login, registration with verification
+- **Profile** — view and edit your profile, avatar, and custom ID
+- **Posts** — create, delete, like, and comment on posts
+- **OC (Original Characters)** — create, list, and delete OCs
+- **Channels** — create, join, leave, invite, edit, and moderate channels
+- **Friends** — send requests, block/unblock users
+- **Discovery** — recommended users, albums, channels, and roleplay
+- **Gacha** — spin the gachapon, choose avatars
+- **Game maps** — browse in-app game maps
+- **Points** — check your point balance
 
 ---
 
