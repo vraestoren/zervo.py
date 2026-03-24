@@ -1,4 +1,7 @@
-# zervo.py
+<h1>
+  <img src="https://www.zervo.me/images/logo.jpeg" width="28" style="vertical-align:middle;" />
+  zervo.py
+</h1>
 
 > Mobile-API for [Zervo](https://play.google.com/store/apps/details?id=com.planet.pinponapp) to interact with the anime roleplay social network
 
