@@ -21,7 +21,7 @@ class Zervo:
             f"{self.api}{endpoint}").json()
 
     def _filter(self, data: dict) -> dict:
-        return {k: v for k, v in data.items() if v is not None}
+        return {key: value for key, value in data.items() if value is not None}
 
     def _set_auth(self, response: dict) -> None:
         self.user_id = response["data"]["appUserId"]
